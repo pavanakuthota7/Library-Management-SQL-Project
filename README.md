@@ -8,7 +8,7 @@ Database Design & SQL Analysis
 
 ### Author
 
-**M. Bala Sandeep Kumar**
+**Pavan Akuthota**
 
 ---
 
@@ -38,6 +38,7 @@ The analysis helps answer operational questions related to inventory management,
   * HAVING
   * CTEs
   * Window Functions
+
 * Generated insights for:
 
   * Branch-wise inventory
